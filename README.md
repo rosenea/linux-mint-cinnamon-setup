@@ -29,6 +29,7 @@ The credits are separated by the type of item they belong too:
 
 * [Cursor Credits](./cursors/CREDIT.md)
 * [Icon Credits](./icons/CREDIT.md)
+* [Theme Credits](./themes/CREDIT.md)
 
 
 # Special Note
