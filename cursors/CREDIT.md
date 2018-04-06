@@ -17,5 +17,6 @@ To get the most consistent behaviour from these themes I had to make the
 following changes:
 
 1. Renamed the OpenZone cursor names in their `index.theme` files.
+  - This was done to unify the icon with the others I have.
 2. Created the `cursor.theme` file in the OpenZone project directories.
-  - This was needed to simplify the logic used for setting the cursor.
+  - This was done to unify the process.
