@@ -10,11 +10,18 @@ Mint 18.3 and Debian 9.4 (I haven't tested Debian 9.4 in a little while so I
 hope that it is still working correctly).
 
 
-> **NOTE**
-> 
-> The scripts are all written so they can be called either independently or as
-> a function in a different script. This is so for simplicity of usage
-> programmatically.
+# Installation
+You can perform the installations by either individually running the
+installation scripts in this directory, or by including them into another script
+using:
+
+```bash
+bash /path/to/install_script.sh
+
+# OR
+
+sh /path/to/install_script.sh
+```
 
 
 # Credits
