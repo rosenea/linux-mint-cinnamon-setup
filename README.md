@@ -17,6 +17,16 @@ hope that it is still working correctly).
 > programmatically.
 
 
+# Credits
+
+This is all work done by others (except for some of the scripting), so a huge
+thanks to all whose work I am showcasing:
+
+| Project | Link | Version |
+| ------- | ---- | ------- |
+|         |      |         |
+
+
 # Special Note
 
 I am terrible at writing README documents; but, I am working on it. :)
