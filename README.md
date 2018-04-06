@@ -28,6 +28,7 @@ sh /path/to/install_script.sh
 The credits are separated by the type of item they belong too:
 
 * [Cursor Credits](./cursors/CREDIT.md)
+* [Icon Credits](./icons/CREDIT.md)
 
 
 # Special Note
