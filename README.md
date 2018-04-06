@@ -18,13 +18,9 @@ hope that it is still working correctly).
 
 
 # Credits
+The credits are separated by the type of item they belong too:
 
-This is all work done by others (except for some of the scripting), so a huge
-thanks to all whose work I am showcasing:
-
-| Project | Link | Version |
-| ------- | ---- | ------- |
-|         |      |         |
+* [Cursor Credits](./cursors/CREDIT.md)
 
 
 # Special Note
