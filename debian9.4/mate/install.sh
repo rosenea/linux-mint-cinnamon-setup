@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 # This is the Debian 9.4 - MATE install variant.
+#
+# TODO I need to find a way for this to force itself into another file.
 
 
 ###############################################################################
