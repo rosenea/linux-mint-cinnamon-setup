@@ -28,7 +28,7 @@ if test ! $(which android-studio); then
 	fi
 
 	# Make a symbolic link to the startup script.
-	if test -f /usr/bin/android-studio; then
+	if test ! -f /usr/bin/android-studio; then
 		sudo ln -sf /opt/android-studio/bin/studio.sh /usr/bin/android-studio
 	fi
 fi
