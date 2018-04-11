@@ -88,6 +88,8 @@ install_packages curl \
 	wget \
 	zip \
 	unzip \
+	p7zip-full \
+	unrar \
 	openjdk-8-jdk \
 	build-essential \
 	cmake \
